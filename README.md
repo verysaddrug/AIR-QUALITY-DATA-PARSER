@@ -1,5 +1,5 @@
 
-# Air Quality Data Scraper
+# Air Quality Data Parser
 
 This project scrapes air quality data from `earth.nullschool.net` and stores it in a PostgreSQL database. It uses `chromedp` to fetch data from the website and a Docker setup to run the application and database in containers.
 
