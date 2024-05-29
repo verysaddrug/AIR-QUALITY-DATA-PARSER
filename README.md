@@ -22,7 +22,7 @@ This project scrapes air quality data from `earth.nullschool.net` and stores it 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/verysaddrug/air-quality-parser.git
+   git clone https://github.com/verysaddrug/AIR-QUALITY-DATA-PARSER.git
    cd air-quality-parser
    ```
 
