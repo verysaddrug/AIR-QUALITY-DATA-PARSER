@@ -34,8 +34,8 @@ func main() {
 	// Получение координат и временного интервала из аргументов командной строки
 	latitude := flag.Float64("lat", 60.1695, "Latitude")
 	longitude := flag.Float64("lon", 24.9354, "Longitude")
-	startDate := flag.String("start", "2023-01-01", "Start Date (YYYY-MM-DD)")
-	endDate := flag.String("end", "2024-01-01", "End Date (YYYY-MM-DD)")
+	startDate := flag.String("start", "2023-05-28", "Start Date (YYYY-MM-DD)")
+	endDate := flag.String("end", "2024-05-30", "End Date (YYYY-MM-DD)")
 	flag.Parse()
 
 	// Парсим даты
